@@ -1,4 +1,4 @@
-package SingletonPattern;
+package com.blogspot.junrio.SingletonPattern;
 
 public class MakeAPresident {
 	private static MakeAPresident _president;

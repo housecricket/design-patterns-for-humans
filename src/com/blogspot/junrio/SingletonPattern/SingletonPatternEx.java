@@ -1,4 +1,4 @@
-package SingletonPattern;
+package com.blogspot.junrio.SingletonPattern;
 
 public class SingletonPatternEx {
 	public static void main(String[] args) {
