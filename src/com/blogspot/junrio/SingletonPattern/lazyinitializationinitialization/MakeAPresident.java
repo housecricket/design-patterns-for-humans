@@ -1,4 +1,4 @@
-package com.blogspot.junrio.SingletonPattern;
+package com.blogspot.junrio.SingletonPattern.lazyinitializationinitialization;
 
 public class MakeAPresident {
 	private static MakeAPresident _president;

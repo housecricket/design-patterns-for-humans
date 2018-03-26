@@ -1,4 +1,6 @@
-package com.blogspot.junrio.SingletonPattern;
+package com.blogspot.junrio.SingletonPattern.lazyinitializationinitialization;
+
+import com.blogspot.junrio.SingletonPattern.eagerinitialization.MakeAPresident;
 
 public class SingletonPatternEx {
 	public static void main(String[] args) {
