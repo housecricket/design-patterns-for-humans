@@ -1,6 +1,12 @@
 package junryo.xyz.DesignPattern.FactoryPattern.SimpleFactory;
 
+import junryo.xyz.DesignPattern.FactoryPattern.Bike;
+import junryo.xyz.DesignPattern.FactoryPattern.Car;
+import junryo.xyz.DesignPattern.FactoryPattern.Truck;
+import junryo.xyz.DesignPattern.FactoryPattern.Vehicle;
+
 public class VehicleFactory {
+	
 	public enum VehicleType {
 		Bike, Car, Truck
 	}
